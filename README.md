@@ -1,4 +1,4 @@
-# Letter Guessing - Psychic Game
+# Letters Guessing - Psychic Game
 JavaScript Assignment - Create a Letters Guessing - Psychic Game.
 
 The goal of this assignment is to create a game that will randomly store a secret letter in memory, the game will give the user 9 trials to guess for a matching letter.
