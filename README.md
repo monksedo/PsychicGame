@@ -6,7 +6,7 @@ The goal of this assignment is to create a game that will randomly store a secre
 The game must keep track of the user's entered letters, print the letters on the html page, and update the wins and losses score. The game must reset the to initial stage when the user won a point or runout of trials without winning a point. 
 
 ## Run The App
-[Click here to run](https://monksedo.github.io/PsychicGame/)
+[Click here to run](https://tvn9.github.io/PsychicGame/)
 
 ## Game Features
 1. The game will randomly pick a hidden letter, and the user has to guess the letter to match hidden letter from memory.
